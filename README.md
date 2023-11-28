@@ -1,5 +1,9 @@
-# DESN 368 Web Design 1 Starter Template
+# Coffee Editorial Design
 
-> **NOTE:** This is a work in progress.
+> **NOTE:** Coffee, coffee, coffee
 
-DIY Template, starter, boilerplate, prototype, etc. for future Web Design projects. 
+Coffee is the greatest drink in the whole world. Coffee is the sun. Coffee is the solar system. Coffee is the universe.
+
+
+##Citations
+
